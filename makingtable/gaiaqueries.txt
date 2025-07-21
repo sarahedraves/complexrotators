@@ -36,7 +36,7 @@ SELECT us1.*,
 	gaia.*,
 	us2.*
 FROM gaiadr3.gaia_source as gaia
-left join user_sdraves."IDtable" as us1
+left join user_sdraves.ourgaiaids as us1
 	on us1.gaiadr3_source_id=gaia.source_id
 left join user_sdraves.nearbyids as us2
 	on us2."GaiaEDR3"=gaia.source_id
