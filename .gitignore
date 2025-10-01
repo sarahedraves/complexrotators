@@ -12,3 +12,6 @@ makingtable/cleanedgaiadata.csv
 
 multiplots/
 lightcurves/
+
+*.csv
+makingtable/*.csv
