@@ -1,0 +1,17 @@
+- add to second tab of google sheet, filling in all commons and making sure it is not a duplicate
+- download that tab as a csv to this folder and overwrite the existing one
+- run formatidswithdiscopapertable
+- upload the resulting file idswithdiscopapers to the third tab of the google sheet
+- replace ourgaiaids on gaia website
+- run the last two queries in gaiaqueries.txt on gaia website
+- download resulting data files and save over gaiaqueryresults.csv and gaiadatawithnearby.csv
+- run gaiadata and gaiadatawithnearby 
+- run formattablesection2.3 and send resulting papertable2.3 to mark 
+- run tessandk2lightcurves
+- run tessexptimes and upload resulting data from tesstimes.csv to the second to last tab on the google sheet
+- run formatlightcurvetable and upload three resulting tables to relevant google sheet tabs
+- download the bestlcs google sheet tab to the bestlcs.csv files
+- run observationtimes and update BaselineFigure in the paper (first make sure that TESS_FFI_observation_times.csv is up to date)
+- run summarystats and update in the paper 
+- run downloadffilcs to make sure all the needed ffis are downloaded
+- run plottinglcs (modify) - do
