@@ -6,12 +6,18 @@
 
 data/*
 
+output/
+output/*
+
 makingtable/gaiadatawithnearby.csv
 makingtable/nearbygaiaids.vot
 makingtable/cleanedgaiadata.csv
 
 multiplots/
+multiplots/*
+lightcurves/*
 lightcurves/
 
+*.png
 *.csv
 makingtable/*.csv
