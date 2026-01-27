@@ -37,7 +37,7 @@ Key responsibilities included:
 
 - **Communication & collaboration**
   - Contributed analysis code, figures, and methodology text to an in-progress paper
-  - Presented a 10-minute research talk at the **American Museum of Natural History Undergraduate Summer Research Symposium** (Summer 2025)
+  - Presented a 10-minute research talk at the **American Museum of Natural History Undergraduate Summer Research Symposium** (Summer 2025) - [slides here](https://github.com/sarahedraves/complexrotators/blob/main/dravesfinalpresentation.pdf)
   - Owned execution-level technical decisions while contributing to scientific interpretation and project direction
 
 ---
