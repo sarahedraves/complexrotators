@@ -19,5 +19,3 @@ lightcurves/*
 lightcurves/
 
 *.png
-*.csv
-makingtable/*.csv
