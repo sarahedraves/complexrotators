@@ -14,4 +14,4 @@
 - run observationtimes and update BaselineFigure in the paper (first make sure that TESS_FFI_observation_times.csv is up to date)
 - run summarystats and update in the paper 
 - run downloadffilcs to make sure all the needed ffis are downloaded
-- run plottinglcs (modify) - do
+- run plottinglcs (modify) 
