@@ -21,3 +21,8 @@ lightcurves/
 *.png
 
 lcscoreswgaia.csv
+
+/SRMP/multiplots/
+/SRMP/multiplots/*
+/SRMP/nimo_gaiadatawithnearby.csv
+/SRMP/nimo_cleanedgaiadata.csv
